@@ -6,7 +6,7 @@ This repository showcases my work in **data analysis and visualization** using *
 
 ---
 
-## Featured Project: Kevin Cookie Company Financial Analysis
+## 1st Project: Kevin Cookie Company Financial Analysis
 
 **Description:**  
 An interactive dashboard analyzing the financial performance of Kevin Cookie Company, including:  

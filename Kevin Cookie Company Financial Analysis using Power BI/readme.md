@@ -1,4 +1,5 @@
-🚀 Just wrapped up a Cookies Sales Dashboard in Power BI!
+
+![Cookies Dashboard](power BI.PNG)  🚀 Just wrapped up a Cookies Sales Dashboard in Power BI!
 This project involved:
  ✅ Data Cleaning & Transformation – ensuring consistency and accuracy.
  ✅ Country-wise Analysis – breaking down performance by India, Malaysia, Philippines, UK, and USA.

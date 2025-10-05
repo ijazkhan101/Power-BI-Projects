@@ -41,7 +41,7 @@ The project demonstrates how raw sales data can be transformed into **actionable
 ---
 
 ## 📷 Dashboard Preview:
-![Overview](Dashb)
+![Overview](dashboard.JPG)
 
 ---
 

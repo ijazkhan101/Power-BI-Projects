@@ -1,32 +1,49 @@
-# Power BI Portfolio
+# Packaged Water Sales – Power BI Dashboard
 
-Welcome to my **Power BI Projects Portfolio**! 🚀  
-
-This repository showcases my work in **data analysis and visualization** using **Microsoft Power BI**. Here, I share projects that demonstrate my ability to clean, transform, and visualize data to extract meaningful insights and support business decision-making.  
-
----
-
-## 1st Project: Kevin Cookie Company Financial Analysis
-
-**Description:**  
-An interactive dashboard analyzing the financial performance of Kevin Cookie Company, including:  
-- Country-wise profit analysis (India, Malaysia, Philippines, UK, USA)  
-- Product-wise profit breakdown  
-- Monthly profit trends  
-
-**Key Skills Demonstrated:**  
-- Data cleaning and transformation  
-- DAX calculations and measures  
-- Interactive dashboard design and visualization  
+📊 An interactive **Power BI dashboard** that provides deep insights into packaged water sales across multiple regions, products, and customer types.  
+The project demonstrates how raw sales data can be transformed into **actionable business intelligence**.
 
 ---
 
-## About This Repository
-
-This repository will be continuously updated with **more Power BI projects** showcasing my skills in data analysis, visualization, and business intelligence.  
-
-Stay tuned for new dashboards and insights!  
+## 🔑 Key KPIs:
+- **Total Sales:** 136.59M
+- **Total Profit:** 3.18M (2.33%)
+- **Top Selling Country:** Oman – 20M
+- **Top Performing Product:** 1L Regular – 12 Pack (77.26M Sales)
+- **Customer Segments:** Groceries, Hotels, Hypermarkets, Supermarkets
+- **Sales Performance by Manager & Customer**
 
 ---
 
-**#PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #Portfolio**
+## 📂 Project Structure:
+- `Dashboard_Screenshots/` → Visual snapshots of the dashboard
+- `Data/` → Sample dataset (CSV)
+- `Report/` → Power BI file (`.pbix`)
+- `README.md` → Project documentation
+
+---
+
+## 🛠️ Tools & Skills:
+- Power BI
+- DAX & Data Modeling
+- Data Visualization
+- Business Intelligence
+- Sales Analytics
+
+---
+
+## 🚀 How to Use:
+1. Clone this repository  
+2. Open `Report/Packaged_Water_Sales.pbix` in Power BI Desktop  
+3. Explore interactive dashboards  
+4. Use `Data/packaged_water_sales.csv` for your own analysis  
+
+---
+
+## 📷 Dashboard Preview:
+![Overview](Dashb)
+
+---
+
+## 📌 Author:
+Developed by **[Ijaz Ullah]**  
